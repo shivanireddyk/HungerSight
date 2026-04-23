@@ -20,6 +20,13 @@ Food banks and hunger relief organizations like **U.S. Hunger** typically operat
 - Delivering actionable insights to stakeholders through interactive dashboards
 
 ---
+## 🌐 Live App Features
+
+### 🔍 ZIP Lookup
+![ZIP Lookup](Screenshot 2026-04-23 at 15.18.54.png)
+
+### 📈 Trends & Forecast
+![Trends & Forecast](Screenshot 2026-04-23 at 15.19.35.png)
 
 ## 🏗️ Project Architecture
 
