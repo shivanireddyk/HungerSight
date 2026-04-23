@@ -22,11 +22,9 @@ Food banks and hunger relief organizations like **U.S. Hunger** typically operat
 ---
 ## 🌐 Live App Features
 
-### 🔍 ZIP Lookup
-![ZIP Lookup](Screenshot 2026-04-23 at 15.18.54.png)
+![ZIP Lookup](./Screenshot%202026-04-23%20at%2015.18.54.png)
 
-### 📈 Trends & Forecast
-![Trends & Forecast](Screenshot 2026-04-23 at 15.19.35.png)
+![Trends & Forecast](./Screenshot%202026-04-23%20at%2015.19.35.png)
 
 ## 🏗️ Project Architecture
 
